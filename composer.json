@@ -1,14 +1,14 @@
 {
-    "name":"shadiakiki1986/fatca-ides-php",
+    "name":"tathevik/fatca",
     "description":"PHP library for generation of FATCA IDES submission files",
     "keywords":["FATCA","IDES","Encryption","Decryption"],
     "type":"library",
     "license":"CC0 1.0 Universal",
-    "homepage": "https://github.com/shadiakiki1986/fatca-ides-php",
+    "homepage": "https://github.com/tathevik/fatca",
     "authors":[
         {
-            "name":"Shadi Akiki",
-            "email":"s.akiki@ffaprivatebank.com"
+            "name":"Tatevik Hovhannisyan",
+            "email":"tatevikhovhannisyan92@gmail.com"
         }
     ],
     "minimum-stability": "stable",

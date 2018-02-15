@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="WEB_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/tests/FatcaXsdPhp" isTestSource="true" packagePrefix="FatcaXsdPhp\" />
+      <sourceFolder url="file://$MODULE_DIR$/tests/FatcaIdesPhp" isTestSource="true" packagePrefix="FatcaIdesPhp\" />
+      <sourceFolder url="file://$MODULE_DIR$/src/FatcaXsdPhp/oecd/ties" isTestSource="false" packagePrefix="oecd\ties\" />
+      <sourceFolder url="file://$MODULE_DIR$/src/FatcaXsdPhp" isTestSource="false" packagePrefix="FatcaXsdPhp\" />
+      <sourceFolder url="file://$MODULE_DIR$/src/FatcaIdesPhp" isTestSource="false" packagePrefix="FatcaIdesPhp\" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
